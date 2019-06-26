@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.content {
+  margin-top: 4.2em;
+  padding: 10px;
+  height: 1000px;
+  background-color: white
+}
+
+.day {
+  height: 110px;
+  background-color: darkslategrey
+}
+
+#header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-Index: 999
+}

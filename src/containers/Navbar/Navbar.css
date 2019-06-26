@@ -1,0 +1,23 @@
+#header{
+    min-height: 4em;
+    border-bottom: solid 1px #e7e7e7;
+    background-color:#f8f8f8
+}
+
+
+#nav{
+    padding:10px;
+}
+
+.title{
+    font-family: "Ubuntu", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height:1.5em;
+    float: left
+}
+
+.right{
+    float: right;
+
+}
